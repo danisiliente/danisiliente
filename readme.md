@@ -12,6 +12,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 
+![Godot](https://img.shields.io/badge/godot-478CBF?style=flat&logo=godot-engine&logoColor=white)
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
@@ -19,6 +20,7 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white)
+![Aseprite](https://img.shields.io/badge/aseprite-7D929E?style=flat&logo=aseprite&logoColor=white)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=danisiliente&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br><br>
